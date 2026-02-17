@@ -1,3 +1,3 @@
 riga 1
-riga 2
+riga A
 riga 3
